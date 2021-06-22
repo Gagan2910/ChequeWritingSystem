@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\C#.Net\ChequeWritingSystem\ChequeWritingSystem\bin\Debug\netcoreapp3.1\ChequeWritingSystem.exe
+C:\Users\Admin\Desktop\C#.Net\ChequeWritingSystem\ChequeWritingSystem\bin\Debug\netcoreapp3.1\ChequeWritingSystem.deps.json
+C:\Users\Admin\Desktop\C#.Net\ChequeWritingSystem\ChequeWritingSystem\bin\Debug\netcoreapp3.1\ChequeWritingSystem.runtimeconfig.json
+C:\Users\Admin\Desktop\C#.Net\ChequeWritingSystem\ChequeWritingSystem\bin\Debug\netcoreapp3.1\ChequeWritingSystem.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C#.Net\ChequeWritingSystem\ChequeWritingSystem\bin\Debug\netcoreapp3.1\ChequeWritingSystem.dll
+C:\Users\Admin\Desktop\C#.Net\ChequeWritingSystem\ChequeWritingSystem\bin\Debug\netcoreapp3.1\ChequeWritingSystem.pdb
+C:\Users\Admin\Desktop\C#.Net\ChequeWritingSystem\ChequeWritingSystem\obj\Debug\netcoreapp3.1\ChequeWritingSystem.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C#.Net\ChequeWritingSystem\ChequeWritingSystem\obj\Debug\netcoreapp3.1\ChequeWritingSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#.Net\ChequeWritingSystem\ChequeWritingSystem\obj\Debug\netcoreapp3.1\ChequeWritingSystem.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#.Net\ChequeWritingSystem\ChequeWritingSystem\obj\Debug\netcoreapp3.1\ChequeWritingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#.Net\ChequeWritingSystem\ChequeWritingSystem\obj\Debug\netcoreapp3.1\ChequeWritingSystem.dll
+C:\Users\Admin\Desktop\C#.Net\ChequeWritingSystem\ChequeWritingSystem\obj\Debug\netcoreapp3.1\ChequeWritingSystem.pdb
+C:\Users\Admin\Desktop\C#.Net\ChequeWritingSystem\ChequeWritingSystem\obj\Debug\netcoreapp3.1\ChequeWritingSystem.genruntimeconfig.cache
